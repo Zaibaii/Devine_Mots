@@ -20,6 +20,7 @@ Règles :
 
 Interface :
 
-![Menu](/image/Exemple_menu.png "Menu")
+![Menu](/image/Exemple_menu.png?raw=true "Menu")
 
-![Jeu](/image/Exemple_jeu.png "Jeu")
+
+![Jeu](/image/Exemple_jeu.png?raw=true "Jeu")
