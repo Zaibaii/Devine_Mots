@@ -1,26 +1,29 @@
-# Devine_Mots
-Devine Mots est un jeu de réflexion où vous devez trouver un mot avec l'aide de plusieurs indices !
+# Devine Mots
 
-Règles :
+**Devine Mots** est un jeu de réflexion en ligne de commande (Batch) où vous devez identifier un mot mystère à l'aide de plusieurs indices thématiques !
 
-    - Mode de Jeu:  Le jeu comporte deux modes différents, classique et contre-la-montre.
-			Le mode contre-la-montre vous donne 15 secondes par indice.
-			Une partie peut-être quittée à tout moment avec la saisie '4'.
+## 🎮 Règles du jeu
 
-	- Dificulté:    Le nombre d'indices varie de 3 à 5 en fonction du niveau de difficulté choisi,
-			où chaque indice vous donne une possibilité de réponse.
+- **Modes de jeu** : Le jeu propose deux modes :
+    - **Classique** : Prenez votre temps pour réfléchir.
+    - **Contre-la-montre** : Vous disposez de 15 secondes par indice pour trouver la réponse.
+    - *Note : Vous pouvez quitter une partie à tout moment en saisissant '4'.*
 
-	- Score:        Chaque bonne réponse vous fait gagner un point tandis que chaque mot non trouvé,
-			vous en fait perdre un.
- 
-	- Erreur:       Chaque erreur de saisie est également comptabilisée à titre informatif.
+- **Difficulté** : Le nombre d'indices varie de **3 à 5** selon la difficulté choisie. Chaque nouvel indice est une nouvelle chance de deviner le mot mystère.
 
-	- Saisie:       Les majuscules/minuscules ne sont pas prises en compte dans la saisie,
-			cependant faites attention à l'orthographe et aux accents !
+- **Système de Score** :
+    - +1 point par bonne réponse.
+    - -1 point par mot non trouvé.
+    - Le nombre d'erreurs est affiché à titre informatif.
 
-Interface :
+- **Saisie et Orthographe** :
+    - Le jeu ne fait pas de distinction entre majuscules et minuscules (**insensible à la casse**).
+    - **Attention** : L'orthographe exacte et les accents sont requis pour valider la réponse !
 
+## 🖥️ Interface
+
+### Menu Principal
 ![Menu](/Image/Exemple_menu.png?raw=true "Menu")
 
-
+### En cours de jeu
 ![Jeu](/Image/Exemple_jeu.png?raw=true "Jeu")
